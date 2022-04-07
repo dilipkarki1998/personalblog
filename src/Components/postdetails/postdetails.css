@@ -1,0 +1,33 @@
+.detailimg{
+    width:  80%;
+    height: 600px;
+    margin-left: 10%;
+    margin-top: 5%;
+    border-radius: 10px;
+}
+.posttitlefull{
+    margin-left: 10%;
+    font-size:  20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.blogdetails{
+    margin-top: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.posteditinfo{
+    float:inline-end;
+    font-size: 16px;
+    margin-left: 10%;
+
+}
+
+.postauthor{
+    margin-left: 10%;margin-right: 55%;
+}
+.postdate{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+;
